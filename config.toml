@@ -21,7 +21,8 @@ patcher-args = "-e 'Custom branding' -OappIcon=original"
 app-name = "Reddit"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 build-mode = "apk"
-arch = "all"
+arch = "arm64-v8a"
+dpi = "480-640dpi 120-640dpi 120-480dpi nodpi anydpi"
 
 [Instagram]
 enabled = false
