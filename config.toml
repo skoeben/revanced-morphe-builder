@@ -33,6 +33,7 @@ build-mode = "apk"
 arch = "arm64-v8a"
 
 [Shazam]
+enabled = false
 app-name = "Shazam"
 patches-source = "heval99/Heval-Morphe-Patches"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/apple/shazam"
@@ -45,6 +46,7 @@ patches-source = "heval99/Heval-Morphe-Patches"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/sofascore/soccer-scores-and-sports-livescore-sofascore"
 build-mode = "apk"
 arch = "arm64-v8a"
+dpi = "480-640dpi 640dpi 480dpi 120-480dpi 120-640dpi nodpi"
 
 [Letterboxd]
 app-name = "Letterboxd"
@@ -52,3 +54,4 @@ patches-source = "mvaishak/letterboxd-morphe-patches"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/letterboxd/letterboxd"
 build-mode = "apk"
 arch = "arm64-v8a"
+dpi = "480-640dpi 120-480dpi 120-640dpi nodpi"
