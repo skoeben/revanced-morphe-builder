@@ -31,3 +31,24 @@ patches-source = "crimera/piko"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
 build-mode = "apk"
 arch = "arm64-v8a"
+
+[Shazam]
+app-name = "Shazam"
+patches-source = "heval99/Heval-Morphe-Patches"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/apple/shazam"
+build-mode = "apk"
+arch = "arm64-v8a"
+
+[Sofascore]
+app-name = "Sofascore"
+patches-source = "heval99/Heval-Morphe-Patches"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/sofascore/soccer-scores-and-sports-livescore-sofascore"
+build-mode = "apk"
+arch = "arm64-v8a"
+
+[Letterboxd]
+app-name = "Letterboxd"
+patches-source = "mvaishak/letterboxd-morphe-patches"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/letterboxd/letterboxd"
+build-mode = "apk"
+arch = "arm64-v8a"
