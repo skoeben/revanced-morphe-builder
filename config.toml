@@ -24,6 +24,7 @@ build-mode = "apk"
 arch = "all"
 
 [Instagram]
+enabled = false
 app-name = "Instagram"
 patches-source = "crimera/piko"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
