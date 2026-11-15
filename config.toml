@@ -21,11 +21,11 @@ patcher-args = "-e 'Custom branding' -OappIcon=original"
 app-name = "Reddit"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 build-mode = "apk"
-arch = "arm64-v8a"
+arch = "all"
 
 [Instagram]
 app-name = "Instagram"
-patches-source = "MeridianFresco/morphe-meta-patches"
+patches-source = "crimera/piko"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
 build-mode = "apk"
 arch = "arm64-v8a"
