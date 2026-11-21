@@ -6,8 +6,8 @@ Install [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases/latest) 
 Patches: heval99/Heval-Morphe-Patches/patches-3.0.0.mpp  
 [Changelog](https://github.com/heval99/Heval-Morphe-Patches/releases/tag/v3.0.0)
 
-CLI: MorpheApp/morphe-cli/morphe-desktop-2.2.0-all.jar    
+CLI: MorpheApp/morphe-cli/morphe-desktop-2.3.0-all.jar    
 
 Skipped:  
 Patches: mvaishak/letterboxd-morphe-patches/patches-3.0.1.mpp    
-Patches: MorpheApp/morphe-patches/patches-2.3.0.mpp                                
+Patches: MorpheApp/morphe-patches/patches-2.3.0.mpp                                  
