@@ -10,4 +10,4 @@ CLI: MorpheApp/morphe-cli/morphe-desktop-2.4.0-all.jar
 
 Skipped:  
 Patches: mvaishak/letterboxd-morphe-patches/patches-3.1.1.mpp  
-Patches: MorpheApp/morphe-patches/patches-2.4.0.mpp        
+Patches: MorpheApp/morphe-patches/patches-2.4.0.mpp          
